@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SubmitFormApplication</string>
+
+    <string-array name="educationlevel">
+        <item>Bachelor</item>
+        <item>Diploma</item>
+        <item>Other</item>
+    </string-array>
+</resources>
